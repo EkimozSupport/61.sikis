@@ -1,7 +1,7 @@
 {
-  "name": "Music Player Bot",
+  "name": "Hatıralara Music Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
-  "logo": "https://telegra.ph/file/58b49a246c25c8aa2f613.jpg",
+  "logo": "https://telegra.ph/file/a0c4a5e178ac3bf74050e.jpg",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/ZauteKm/MusicBot",
   "stack": "container",
@@ -17,7 +17,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": "Group Music Bot"
+      "value": "Hatıralara Music Bot"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
