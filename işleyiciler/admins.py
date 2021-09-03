@@ -37,7 +37,7 @@ async def resume(_, message: Message):
         await message.reply_text(f"**{BN} :-** 🙄 Nothing is paused!")
     else:
         callsmusic.pytgcalls.resume_stream(message.chat.id)
-        await message.reply_text(f"**{BN} :-** 🥳 Resumed!")
+        await message.reply_text(f"**{BN} :-** 💎 Resumed!")
 
 
 @Client.on_message(command("stop") & other_filters)
